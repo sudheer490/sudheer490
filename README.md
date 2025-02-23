@@ -7,7 +7,7 @@
 <h5 align="center">
   <code><a href="https://linkedin.com/in/sudheervishnu" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/sudheer490" title="GitHub Profile"><img width="22" src="images/git.png"> GitHub</a></code>
-  <code><a href="https://sudheer490.github.io/" title="Portfolio"><img width="22" src="images/portfolio.svg"> Portfolio</a></code>
+  <code><a href="https://sudheer490.github.io/" title="Portfolio"><img width="22" src="images/portfolio.png"> Portfolio</a></code>
 </h5>
 
 <br>
